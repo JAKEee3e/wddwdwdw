@@ -1,1 +1,0 @@
-Place your SDXL base model here (Diffusers format directory).

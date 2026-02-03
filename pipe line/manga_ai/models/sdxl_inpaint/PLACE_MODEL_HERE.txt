@@ -1,1 +1,0 @@
-Place your SDXL inpainting model here (Diffusers format directory).
